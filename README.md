@@ -29,7 +29,7 @@
 ![Maxim Salnikov](https://github.com/webmaxru/pwa-workshop-ru/raw/master/maximsalnikov.jpg)
 
 [Максим Сальников](https://sessionize.com/maxim-salnikov/) [@webmaxru](https://twitter.com/webmaxru) - full-stack разработчик в ForgeRock, [Google Developer Expert](https://developers.google.com/experts/people/maxim-salnikov) и [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002950).
-Фронтенд-разработкой он занимается с конца прошлого века, а в последнее время активно занялся темой Progressive Web Apps, запустив самые большие [англо-](https://bit-ly/go-pwa-slack) и [русскоязычные площадки](https://t.me/pwa_ru) для обсуждения этой темы.
+Фронтенд-разработкой он занимается с конца прошлого века, а в последнее время серьезно увлечен темой Progressive Web Apps, запустив самые большие [англо-](https://bit-ly/go-pwa-slack) и [русскоязычные площадки](https://t.me/pwa_ru) для обсуждения этой темы.
 
 Максим является основателем и руководителем двух конференций: [Mobile Era](https://mobileera.rocks) и [ngVikings](https://ngvikings.org) - главных скандинавских мероприятий по мобильной и Angular разработке соответственно. Кроме того он проводит крупнейшие в Норвегии митапы по фронтенд- и мобайл тематике.
 
