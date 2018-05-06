@@ -26,6 +26,8 @@
 
 ## О менторе
 
+![Maxim Salnikov](https://github.com/webmaxru/pwa-workshop-ru/raw/master/maximsalnikov.jpg)
+
 [Максим Сальников](https://sessionize.com/maxim-salnikov/) [@webmaxru](https://twitter.com/webmaxru) - full-stack разработчик в ForgeRock, [Google Developer Expert](https://developers.google.com/experts/people/maxim-salnikov) и [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002950).
 Фронтенд-разработкой он занимается с конца прошлого века, а в последнее время активно занялся темой Progressive Web Apps, запустив самые большие [англо-](https://bit-ly/go-pwa-slack) и [русскоязычные площадки](https://t.me/pwa_ru) для обсуждения этой темы.
 
